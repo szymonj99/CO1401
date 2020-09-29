@@ -1,0 +1,16 @@
+dog
+pig
+cat
+rat
+fox
+cow
+eel
+bee
+owl
+bat
+ant
+ape
+elk
+nit
+hen
+koi
